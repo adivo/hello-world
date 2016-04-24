@@ -1,6 +1,6 @@
 {
   "name": "Hello-world",
   "tagline": "helloworld example",
-  "body": "# hello-world\r\nThis is a hello-world example to learn how to work with github\r\n",
+  "body": "# hello-world# \r\nThis is a hello-world example to learn how to work with github\r\n## ",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
